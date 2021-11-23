@@ -18,7 +18,7 @@ for turtle_index in range(0, 6):
     all_turtles.append(new_turtle)
 
 if user_bet:
-    is_race_on = True
+    is_race_on = True    # Works till this variable is True
 
 while is_race_on:
     for turtle in all_turtles:
