@@ -1,3 +1,4 @@
+# impoeting required libraries
 from turtle import Turtle, Screen
 import random
 
